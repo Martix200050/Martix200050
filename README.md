@@ -21,9 +21,9 @@ My name is Artem. I'm a junior Android developer from Lviv, Ukraine🔱
 
 ---
 
-- <img src="images/icons8-discord-48.png" alt="Discord Icon" height="18px" width="18px"> Discord
-- <img src="images/icons8-telegram-48.png" alt="Telegram Icon" height="18px" width="18px"> Telegram
-- <img src="images/icons8-gmail-48.png" alt="Gmail Icon" height="18px" width="18px"></a> Gmail
-- <img src="images/dataset-card.png" alt="Leetcode Icon" height="18px" width="18px"> Leetcode
+- <a href="#"><img src="images/icons8-discord-48.png" alt="Discord Icon" height="18px" width="18px"> Discord</a>
+- <a href="#"><img src="images/icons8-telegram-48.png" alt="Telegram Icon" height="18px" width="18px"> Telegram</a>
+- <a href="#"><img src="images/icons8-gmail-48.png" alt="Gmail Icon" height="18px" width="18px"> Gmail</a>
+- <a href="https://leetcode.com/u/artik200050/"><img src="images/dataset-card.png" alt="Leetcode Icon" height="18px" width="18px"> Leetcode</a>
 
 Дякую за увагу / Thanks for your attention🙏
