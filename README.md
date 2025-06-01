@@ -18,7 +18,7 @@ Android-розробник на Kotlin. Працюю з Jetpack Compose, MVVM і
 - Темна та світла тема
 
 **Технології:**
-- Kotlin + Jetpack Compose  
+- Kotlin + Jetpack Compose
 - Room, DataStore, StateFlow  
 - MVVM + Coroutines  
 - Material Design 3
@@ -26,7 +26,7 @@ Android-розробник на Kotlin. Працюю з Jetpack Compose, MVVM і
 ---
 
 ### 🧰 Навички
-- Kotlin, Jetpack Compose  
+- Kotlin, Jetpack Compose + XML-розмітка   
 - MVVM, Clean Architecture  
 - Firebase (Auth, Firestore, Crashlytics)  
 - REST, Git & GitHub  
