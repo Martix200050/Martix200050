@@ -36,7 +36,7 @@ Android-розробник на Kotlin. Маю досвід роботи з ос
 - UI/UX адаптація під різні екрани  
 - Jetpack Compose Navigation, WorkManager, StateFlow  
 - SharedPreferences, Gson, локальна персоналізація логіки  
-- English: Upper intermediate (B2)
+- English: Intermediate level (reading technical docs, basic communication)
 
 ---
 
